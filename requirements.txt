@@ -1,4 +1,4 @@
-xpython 
+xpython
 backports-abc==0.5
 Django==1.11.29
 futures==3.3.0
@@ -9,6 +9,6 @@ pytz==2022.1
 singledispatch==3.7.0
 six==1.16.0
 tornado==5.1.1
-twain @ file:///C:/Users/Mojtaba/Downloads/Wheels/twain-1.0.4-cp27-cp27m-win_amd64.whl
-wxPython @ file:///C:/Users/Mojtaba/Downloads/Wheels/wxPython-4.1.0-cp27-cp27m-win_amd64.whl
-wxPython-common @ file:///C:/Users/Mojtaba/Downloads/Wheels/wxPython_common-3.0.2.0-py2-none-any.whl
+twain
+wxPython
+wxPython-common
