@@ -1,4 +1,4 @@
--xpython @ file:///C:/Users/Mojtaba/Downloads/Wheels/wxPython-3.0.2.0-cp27-none-win_amd64.whl
+xpython 
 backports-abc==0.5
 Django==1.11.29
 futures==3.3.0
